@@ -1,0 +1,10 @@
+{
+  "mitsuwa_sales_rader_config" :
+  {
+    "username":"",
+    "email":"",
+    "send_only_keyword":true,
+    "keywords_en":"",
+    "keywords_jp":""
+  }
+}
